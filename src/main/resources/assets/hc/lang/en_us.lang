@@ -1,0 +1,29 @@
+item.ingot_haze.name=Haze
+item.sword_core.name=Sword Core
+item.zoal.name=Zoal
+item.pyrine.name=Pyrine
+item.gytite.name=Gytite
+item.yarium.name=Yarium
+item.eityne.name=Eityne
+item.enderian.name=Enderian
+
+item.sword_lhaze.name=The Legend of Haze
+
+item.helmet_haze.name=Haze Helmet
+item.chestplate_haze.name=Haze Chestplate
+item.leggings_haze.name=Haze Leggings
+item.boots_haze.name=Haze Boots
+
+item.axe_haze.name=Haze Axe
+item.pickaxe_haze.name=Haze Pickaxe
+item.sword_haze.name=Haze Sword
+item.hoe_haze.name=Haze Hoe
+item.shovel_haze.name=Haze Shovel
+
+tile.block_haze.name=Haze Block
+tile.block_zoal.name=Zoal Block
+tile.block_pyrine.name=Pyrine Block
+tile.block_gytite.name=Gytite Block
+tile.block_yarium.name=Yarium Block
+tile.block_eityne.name=Eityne Block
+tile.block_enderian.name=Enderian Block

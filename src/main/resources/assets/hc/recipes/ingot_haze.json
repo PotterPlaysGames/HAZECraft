@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "hc:block_haze"
+        }
+    },
+    
+    "result":
+    {
+        "item": "hc:ingot_haze",
+        "count": 9
+    }
+}
